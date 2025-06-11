@@ -10,9 +10,9 @@
     <br>
 <a href="https://github.com/sumon9836/KAISEN-MD/fork"><img title="KAISEN-MD" src="https://img.shields.io/badge/FORK KAISEN-MD-h?color=black&style=for-the-badge&logo=stackshare"></a>
 
-2. pair code
+2. pair kaisen
     <br>
-<a href="https://pair-kaisen.onrender.com"><img title="PAIR CODE" src="https://img.shields.io/badge/GET SESSION-h?color=black&style=for-the-badge&logo=msi"></a>
+<a href="https://kaisen-md-pair.onrender.com"><img title="PAIR CODE" src="https://img.shields.io/badge/GET SESSION-h?color=black&style=for-the-badge&logo=msi"></a>
 
 
 
