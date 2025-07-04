@@ -37,7 +37,7 @@ MENTION_REPLY: process.env.MENTION_REPLY || "false",
 // maks true for always online 
 DESCRIPTION: process.env.DESCRIPTION || "*© ᴘσωєʀє∂ ву 𝖐𝚊𝚒𝚜𝖊𝖓 𝙼ԃ⎯꯭̽💀*",
 // add bot owner name    
-ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/j7fo2x.jpg",
+ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/fmshet.mp4",
 // add img for alive msg menu photo url
 LIVE_MSG: process.env.LIVE_MSG || "> HEY 👋 IM ALIVE NOW*⚡",
 // add alive msg here 
