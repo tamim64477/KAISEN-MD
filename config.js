@@ -51,7 +51,7 @@ MODE: process.env.MODE || "public",
 // make bot public-private-inbox-group 
 DELETE_LINK: process.env.DELETE_LINK || "true",
 // make anti link true,false for groups 
-ANTI_LINK: process.env.ANTI_LINK || "true",
+ANTI_LINK: process.env.ANTI_LINK || "false",
 // make anti link true,false for groups 
 AUTO_VOICE: process.env.AUTO_VOICE || "false",
 // make true for send automatic voices
