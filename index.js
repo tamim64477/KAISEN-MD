@@ -43,7 +43,7 @@ const {
   const path = require('path')
   const prefix = config.PREFIX
   const mode = config.MODE
-  const ownerNumber = ['917003816486']
+  const ownerNumber = ['917003816481']
   const online = config.ALWAYS_ONLINE
 
 
