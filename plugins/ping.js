@@ -33,7 +33,7 @@ async (conn, mek, m, { from, quoted, sender, reply }) => {
         const responseTime = (end - start) / 1000;
 
         const text = `◈${reactionEmoji}
-*╰┈➤𝐏O͒N͒𝐆 ${responseTime.toFixed(2)} 𝐌ʂ*`;
+*╰┈➤Bokachoda 😂`;
 
         await conn.sendMessage(from, {
             text,
